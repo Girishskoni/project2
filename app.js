@@ -2,5 +2,6 @@ let a=10;
 function sum(a)
 {
     console.log(a+a);
-}
-// adding button
+}// adding button
+//Adding form
+
